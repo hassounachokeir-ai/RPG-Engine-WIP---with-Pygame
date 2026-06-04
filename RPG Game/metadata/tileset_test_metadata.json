@@ -1,5 +1,5 @@
 {
-	"image": "C:\\Users\\hchok\\OneDrive\\Desktop\\Python Projects\\RPG Game\\sprites\\tileset.png",
+	"image": "RPG Game\\sprites\\tileset.png",
 	"tiles": [
 		{"type": "empty", "animated": false},
 		{"type": "empty", "animated": false},
