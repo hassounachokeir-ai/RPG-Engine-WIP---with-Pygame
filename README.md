@@ -17,6 +17,7 @@ This project is a functional RPG engine built with Python and Pygame. While the 
 How to use:
 1. Run main.py
 0 - Toggle editor mode
+H - Toggle hitbox mode
 1 - Toggle layer
 L - Change layer
 2 - Toggle between placing NPCs and tiles
@@ -24,6 +25,7 @@ Left Click - Place tiles
 Right Click - Remove tiles
 Scroll Press - Copy tile
 WASD - Move player
+UP Arrow/ Down Arrow - Toggle between yes and no for choice dialogues
 X - Interact with NPCs (outside of editor mode)
 Z - End dialogue / Pick between yes and no
 M - Save game state
