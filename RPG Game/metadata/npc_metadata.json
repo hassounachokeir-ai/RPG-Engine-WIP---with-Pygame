@@ -1,0 +1,55 @@
+{
+  "npc_2668696": {
+    "direction": "right",
+    "event_state": {
+      "all": {
+        "0": {
+          "condition": "none",
+          "dialogue": "Hey, you!",
+          "distance": 4,
+          "next_event": "1",
+          "trigger": "see_player"
+        },
+        "1": {
+          "condition": "none",
+          "move_to_player": true,
+          "next_event": "2",
+          "trigger": "automatic"
+        },
+
+        "2": {
+          "condition": "none",
+          "yes_no": {
+            "text": "Wanna see something",
+            "yes_event": 3,
+            "no_event": 4
+          },
+          "trigger": "automatic"
+        },
+        "3": {
+          "condition": "none",
+          "dialogue": "Alrighty...",
+          "next_event": "4",
+          "trigger": "automatic"
+        },
+        "4": {
+          "condition": "none",
+          "dialogue": "Wasn't gonna show you something\nanyways HA!",
+          "next_event": 5,
+          "trigger": "automatic"
+        },
+        "5": {
+          "condition": "none",
+          "dialogue": "Yeah, I'm a scammer and I\nknow it...",
+          "next_event": 5,
+          "trigger": "interact"
+        }
+      }
+    },
+    "npc_id": 1,
+    "solid": false,
+    "state": "idle",
+    "x": -64.0,
+    "y": 32.0
+  }
+}

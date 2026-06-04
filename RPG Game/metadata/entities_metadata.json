@@ -1,0 +1,23 @@
+{
+	"player": [
+		{
+		"image": "C:\\Users\\hchok\\OneDrive\\Desktop\\Python Projects\\RPG Game\\sprites\\player.png",
+		"animation_frames": {"idle": [0, 1, 2, 3], "run": [4, 5, 6, 7], "delay": 100 }, 
+		"hitbox": [3, 25, 10, 7]
+		}
+	],
+
+	"npcs": [
+		{
+			"image": "C:\\Users\\hchok\\OneDrive\\Desktop\\Python Projects\\RPG Game\\sprites\\npc_townsfolk_m.png",
+			"animation_frames": {"idle": [0, 1, 2, 3], "run": [4, 5, 6, 7], "delay": 100},
+			"hitbox": [3, 24, 10, 8]
+		},
+
+		{
+			"image": "C:\\Users\\hchok\\OneDrive\\Desktop\\Python Projects\\RPG Game\\sprites\\pumpkin_dude.png",
+			"animation_frames": {"idle": [0, 1, 2, 3], "run": [4, 5, 6, 7], "delay": 100},
+			"hitbox": [3, 25, 10, 7]
+		}
+	]
+}
