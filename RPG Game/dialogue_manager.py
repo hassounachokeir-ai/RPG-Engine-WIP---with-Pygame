@@ -2,9 +2,9 @@ import pygame
 
 class DialogueManager:
     def __init__(self):
-        self.box = pygame.image.load(r"C:\Users\hchok\OneDrive\Desktop\Python Projects\RPG Game\sprites\dialogue_box.png")
-        self.yes_no_box = pygame.image.load(r"C:\Users\hchok\OneDrive\Desktop\Python Projects\RPG Game\sprites\dialogue_yes_no_box.png")
-        self.arrow = pygame.image.load(r"C:\Users\hchok\OneDrive\Desktop\Python Projects\RPG Game\sprites\dialogue_box_arrow.png")
+        self.box = pygame.image.load(r"RPG Game\sprites\dialogue_box.png")
+        self.yes_no_box = pygame.image.load(r"RPG Game\sprites\dialogue_yes_no_box.png")
+        self.arrow = pygame.image.load(r"RPG Game\sprites\dialogue_box_arrow.png")
         self.rotated_arrow = pygame.transform.rotate(self.arrow, 90)
         self.font_size = 16
         self.font = pygame.font.Font(r"C:\Users\hchok\Downloads\Press_Start_2P\PressStart2P-Regular.ttf", self.font_size)
