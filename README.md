@@ -1,6 +1,8 @@
 # RPG-Engine-WIP---with-Pygame
 The following is an RPG engine built entirely using Pygame and Python. The engine isn't complete yet, these are the following features: -Tile Editor, Adding and modifying NPCs, Saving and Loading, Moving aorund and colliding
 
+To use add all the games to one file, enter the metadata and update all the file paths, then open dialgoue manager and update the respective file paths.
+
 Controls: 
 0 To enter editor mode, o to exit afterwards
 1 To toggle layer mode (shows a white highlight over the activated layers)
