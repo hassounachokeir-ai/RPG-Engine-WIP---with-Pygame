@@ -12,6 +12,8 @@ Features CHecklist:
 -Scenes ✘
 -UI and Intro ✘ 
 
+This project is a functional RPG engine built with Python and Pygame. While the core systems are operational, several planned features such as combat, inventory management, and scene transitions are still under development.
+
 How to use:
 1. Run main.py
 0 - Toggle editor mode
