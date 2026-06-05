@@ -1,5 +1,9 @@
 # RPG-Engine-WIP---with-Pygame
-The following game is a WIP RPG engine built entirely using Pygame and Python. There are more features to come.
+This project is a functional RPG engine built with Python and Pygame. While the core systems are operational, several planned features such as combat, inventory management, and scene transitions are still under development.
+<img width="954" height="536" alt="Recording 2026-06-05 072410" src="https://github.com/user-attachments/assets/6e341af4-105f-4269-90ac-06fb93d79eb9" />
+<img width="956" height="536" alt="Recording 2026-06-05 072247" src="https://github.com/user-attachments/assets/9c22cd44-2e18-43ce-9037-673fab4c2395" />
+
+
 Features CHecklist:
 -Tile Editor ✓
 -NPC Events ✓
@@ -11,8 +15,6 @@ Features CHecklist:
 -Enemies ✘ 
 -Scenes ✘
 -UI and Intro ✘ 
-
-This project is a functional RPG engine built with Python and Pygame. While the core systems are operational, several planned features such as combat, inventory management, and scene transitions are still under development.
 
 How to use:
 1. Run main.py
